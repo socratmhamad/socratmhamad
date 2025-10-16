@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Socrat</h1>
-<h3 align="center">Computer and Control Engineer, Application website & Odoo Developer from Syria</h3>
+<h3 align="center">Computer and Automation Engineering</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=socratmhamad&label=Profile%20views&color=0e75b6&style=flat" alt="socratmhamad" />
