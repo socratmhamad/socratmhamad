@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Socrat</h1>
-<h3 align="center">✨🚀 <b>𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 & 𝓐𝓾𝓽𝓸𝓶𝓪𝓽𝓲𝓸𝓷 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻</b> 🚀✨</h3>
+<h3 align="center">🚀💻 Computer & Automation Engineer 💻🚀</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" style="border-radius: 50%;" alt="Programmer with Pizza" />
