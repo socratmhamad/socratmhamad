@@ -5,6 +5,19 @@
 <h1 align="center">Hi 👋, I'm Socrat</h1>
 <h3 align="center">Computer and Automation Engineering</h3>
 
+![Programmer with Pizza](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
+<h1 align="center">Hi 👋, I'm Socrat</h1>
+<h3 align="center">Computer and Automation Engineering</h3>
+
+<p align="center">
+  <b>
+    Computer and Automation Engineer with hands-on experience in control systems, web development, and AI/computer vision projects.<br>
+    Proficient in Python, JavaScript, HTML, CSS, MySQL, and MATLAB.
+  </b>
+</p>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=socratmhamad&label=Profile%20views&color=0e75b6&style=flat" alt="socratmhamad" />
 </p>
