@@ -1,4 +1,5 @@
-![Coder at Work](https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif)
+![Programmer with Pizza](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Socrat</h1>
