@@ -1,8 +1,9 @@
 
-![Programmer with Pizza](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
-
 <h1 align="center">Hi 👋, I'm Socrat</h1>
 <h3 align="center">Computer and Automation Engineering</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="150" height="150" alt="Programmer with Pizza" />
+</p>
 
 <p align="center">
   <b>
