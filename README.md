@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/b8c61764-80f9-4240-9592-f1c91afa7234.png" alt="Socrat Mohammad Animation" width="500"/>
-</p>
+![Coder at Work](https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Socrat</h1>
 <h3 align="center">Computer and Automation Engineering</h3>
