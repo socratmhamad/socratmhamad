@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Socrat</h1>
 <h2 align="center">Computer and Automation Engineering</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" height="300" alt="Programmer with Pizza" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" style="border-radius: 20px;" alt="Programmer with Pizza" />
 </p>
+
 
 <p align="center">
   <b>
